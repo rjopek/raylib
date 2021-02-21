@@ -79,8 +79,8 @@ body {
    overflow: auto;
    font-size: 85%;
    line-height: 1.45;
-   background-color: #323232; /* zmieniono background-color: #f6f8fa; */
-   color: #0f785b;            /* dodano */
+   background-color: #323232;
+   color: #0f785b;
    border-radius: 7px;
  }
 
@@ -94,8 +94,9 @@ body {
    word-wrap: normal;
    background-color: initial;
    border: 0;
-   font-size: 16px; /* dodano */
+   font-size: 18px;
  }
+
 @media (max-width: 767px) {
   .markdown-body {
     padding: 15px;
