@@ -42,17 +42,6 @@ body {
   padding-right: 20px;
 }
 
- .markdown-body .highlight pre,
- .markdown-body pre {
-   padding: 16px;
-   overflow: auto;
-   font-size: 85%;
-   line-height: 1.45;
-   background-color: #323232;
-   color: #0f785b;
-   border-radius: 7px;
- }
-
 @media (max-width: 767px) {
   .markdown-body {
     padding: 15px;
