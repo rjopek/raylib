@@ -16,6 +16,14 @@ body {
   padding: 45px;
 }
 
+.markdown-body p {
+   margin-top: 0;
+   margin-bottom: 10px;
+   text-align: justify;
+   text-justify: inter-word;
+   text-indent: 30px;
+ }
+
 .markdown-body img {
    border-style: none;
  }
