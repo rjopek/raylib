@@ -24,7 +24,7 @@ View the project on [GitHub](https://github.com/rjopek/hb-raylib)
 
 ### Example code
 
-{% highlight ruby %}
+{% highlight ruby linenos %}
 
 
 #include "hbraylib.ch"
