@@ -59,7 +59,7 @@ PROCEDURE Main()
 
 ![](assets/img/core/core_basic_window.png)
 
-## License
+### License
 
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](.git/LICENSE)
 
