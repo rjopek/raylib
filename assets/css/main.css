@@ -31,11 +31,11 @@ body {
   max-width: 100%;
   box-sizing: initial;
   background-color: #f5f5f5;
-  padding: 30px;
+  padding: 20px;
 }
 
 .markdown-body img[align="right"] {
-  padding-left: 30px;
+  padding-left: 20px;
 }
 
 .markdown-body img[align="left"] {
