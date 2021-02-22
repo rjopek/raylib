@@ -52,7 +52,7 @@ PROCEDURE Main()
 
    CloseWindow()
 
-   RETURN.
+   RETURN
 
 
 {% endhighlight %}
