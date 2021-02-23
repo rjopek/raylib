@@ -11,6 +11,8 @@ title: "hb-raylib"
 
 View the project on [GitHub](https://github.com/rjopek/hb-raylib)
 
+### Function reference v3.5
+
 > - [module: audio](audio "module: audio")
 > - [module: core](core "module: core")
 > - [module: models](models "module: models")
