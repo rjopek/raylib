@@ -67,4 +67,4 @@ License MIT is obviously applied only for this repository, not what it builds.
 <br>
 <br>
 
-> &copy; 2020 - 2021 Rafał Jopek
+&copy; 2020 - 2021 Rafał Jopek
