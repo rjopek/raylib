@@ -218,6 +218,8 @@ void DrawGizmo( Vector3 position );
 ```
 Draw simple gizmo
 
+---
+
 ## Model loading/unloading functions
 
 #### LoadModel()
@@ -261,6 +263,8 @@ void UnloadModelKeepMeshes( Model model );
 
 ```
 Unload model ( but not meshes ) from memory ( RAM and/or VRAM )
+
+---
 
 ## Mesh loading/unloading functions
 
@@ -350,6 +354,8 @@ void SetModelMeshMaterial( Model *model, int meshId, int materialId );
 ```
 Set material for a mesh
 
+---
+
 ## Model animations loading/unloading functions
 
 #### LoadModelAnimations()
@@ -393,6 +399,8 @@ bool IsModelAnimationValid( Model model, ModelAnimation anim );
 
 ```
 Check model animation skeleton match
+
+---
 
 ## Mesh generation functions
 
@@ -504,6 +512,8 @@ Mesh GenMeshCubicmap( Image cubicmap, Vector3 cubeSize );
 ```
 Generate cubes-based map mesh from image data
 
+---
+
 ## Mesh manipulation functions
 
 #### MeshBoundingBox()
@@ -547,6 +557,8 @@ void MeshNormalsSmooth( Mesh *mesh );
 
 ```
 Smooth ( average ) vertex normals
+
+---
 
 ## Model drawing functions
 
@@ -624,6 +636,8 @@ void DrawBillboardRec( Camera camera, Texture2D texture, Rectangle source, Vecto
 
 ```
 Draw a billboard texture defined by source
+
+---
 
 ## Collision detection functions
 
