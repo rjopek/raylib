@@ -2,7 +2,6 @@
 layout: default
 title: module shaders
 permalink: shaders
-css: shaders
 ---
 
 # **Function reference module: shaders**

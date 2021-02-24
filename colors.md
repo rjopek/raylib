@@ -2,7 +2,6 @@
 layout: default
 title: module colors
 permalink: colors
-css: colors
 ---
 
 ## Custom raylib color palette for amazing visuals

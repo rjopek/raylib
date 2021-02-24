@@ -2,7 +2,6 @@
 layout: default
 title: module text
 permalink: text
-css: text
 ---
 
 # **Function reference module: text**

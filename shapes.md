@@ -2,7 +2,6 @@
 layout: default
 title: module shapes
 permalink: shapes
-css: shapes
 ---
 
 # **Function reference module: shapes**

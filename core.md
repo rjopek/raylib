@@ -1,8 +1,6 @@
 ---
-layout: default
 title: module core
 permalink: core
-css: core
 ---
 
 # **Function reference module: core**
@@ -57,6 +55,42 @@ Check if window has been initialized successfully
 
 ---
 
+#### IsWindowMinimized()
+
+```c
+
+bool IsWindowMinimized( void );
+
+```
+
+Check if window has been minimized (or lost focus)
+
+---
+
+#### IsWindowResized()
+
+```c
+
+bool IsWindowResized( void );
+
+```
+
+Check if window has been resized
+
+---
+
+#### IsWindowHidden()
+
+```c
+
+bool IsWindowHidden( void );
+
+```
+
+Check if window is currently hidden
+
+---
+
 #### IsWindowFullscreen()
 
 ```c
@@ -69,19 +103,41 @@ Check if window is currently fullscreen
 
 ---
 
-bool IsWindowHidden(void); // Check if window is currently hidden (only PLATFORM_DESKTOP)
-bool IsWindowMinimized(void); // Check if window is currently minimized (only PLATFORM_DESKTOP)
-bool IsWindowMaximized(void); // Check if window is currently maximized (only PLATFORM_DESKTOP)
-bool IsWindowFocused(void); // Check if window is currently focused (only PLATFORM_DESKTOP)
-bool IsWindowResized(void); // Check if window has been resized last frame
-bool IsWindowState(unsigned int flag); // Check if one specific window flag is enabled
-void SetWindowState(unsigned int flags); // Set window configuration state using flags
-void ClearWindowState(unsigned int flags); // Clear window configuration state flags
-void ToggleFullscreen(void); // Toggle window state: fullscreen/windowed (only PLATFORM_DESKTOP)
-void MaximizeWindow(void); // Set window state: maximized, if resizable (only PLATFORM_DESKTOP)
-void MinimizeWindow(void); // Set window state: minimized, if resizable (only PLATFORM_DESKTOP)
-void RestoreWindow(void); // Set window state: not minimized/maximized (only PLATFORM_DESKTOP)
+#### ToggleFullscreen()
 
+```c
+
+void ToggleFullscreen( void );
+
+```
+
+Toggle fullscreen mode (only PLATFORM_DESKTOP)
+
+---
+
+#### UnhideWindow()
+
+```c
+
+void UnhideWindow( void );
+
+```
+
+Show the window
+
+---
+
+#### HideWindow()
+
+```c
+
+void HideWindow( void );
+
+```
+
+Hide the window
+
+---
 
 #### SetWindowIcon()
 
@@ -202,13 +258,6 @@ int GetMonitorCount( void );
 Get number of connected monitors
 
 ---
-
-Vector2 GetMonitorPosition(int monitor); 􀀁􀀂 Get specified monitor position
-int GetMonitorWidth(int monitor); 􀀁􀀂 Get specified monitor width
-int GetMonitorHeight(int monitor); 􀀁􀀂 Get specified monitor height
-int GetMonitorPhysicalWidth(int monitor); 􀀁􀀂 Get specified monitor physical width in millimetres
-int GetMonitorPhysicalHeight(int monitor); 􀀁􀀂 Get specified monitor physical height in millimetres
-int GetMonitorRefreshRate(int monitor); 􀀁􀀂 Get specified monitor refresh rate
 
 #### GetMonitorWidth()
 

@@ -2,7 +2,6 @@
 layout: default
 title: module models
 permalink: models
-css: models
 ---
 
 # **Function reference module: models**
