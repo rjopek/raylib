@@ -2,6 +2,7 @@
 layout: default
 title: module structs
 permalink: structs
+scc: structs
 ---
 
 ```c

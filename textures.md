@@ -2,6 +2,7 @@
 layout: default
 title: module textures
 permalink: textures
+css: textures
 ---
 
 ## Image loading functions
