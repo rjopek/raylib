@@ -50,7 +50,7 @@ PROCEDURE Main()
    RETURN
 
 
-{% endhighlight %}
+```
 
 ![](assets/img/core/core_basic_window.png)
 
