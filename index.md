@@ -63,6 +63,7 @@ PROCEDURE Main()
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](LICENSE)
 
 This site is based on the original [RayLib v3.5](https://www.raylib.com/cheatsheet/cheatsheet.html) documentation.
+
 License MIT is obviously applied only for this repository, not what it builds.
 
 &copy; 2020 - 2021 Rafał Jopek
