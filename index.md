@@ -11,6 +11,8 @@ title: "hb-raylib"
 
 View the project on [GitHub](https://github.com/rjopek/hb-raylib)
 
+### Function reference v3.5
+
 > - [module: audio](audio "module: audio")
 > - [module: core](core "module: core")
 > - [module: models](models "module: models")
@@ -20,7 +22,6 @@ View the project on [GitHub](https://github.com/rjopek/hb-raylib)
 > - [module: textures](textures "module: textures")
 > - [colors](colors "colors")
 > - [structs](structs "structs")
-
 
 ### Example code
 
@@ -63,8 +64,10 @@ PROCEDURE Main()
 
 License MIT is obviously applied only for this repository, not what it builds.
 
+&copy; 2020 - 2021 Rafał Jopek
+
 <br>
 <br>
 <br>
 
-&copy; 2020 - 2021 Rafał Jopek
+This website is based on the original [RayLib v3.5](https://www.raylib.com/cheatsheet/cheatsheet.html) documentation.
