@@ -7,7 +7,7 @@ title: "hb-raylib"
 
 ![Logo](assets/img/harbour_raylib.svg)
 
-**hb-raylib** is a cross-platform open-source software development library. The library is meant to create graphical applications and games. The source code is written in C Language. It supports compilation to many target platforms, including Windows, GNU Linux, macOS, FreeBSD, Android.
+**hb-raylib v3.5** is a cross-platform open-source software development library. The library is meant to create graphical applications and games. The source code is written in C Language. It supports compilation to many target platforms, including Windows, GNU Linux, macOS, FreeBSD, Android.
 
 View the project on [GitHub](https://github.com/rjopek/hb-raylib)
 
