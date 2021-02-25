@@ -20,8 +20,7 @@ View the project on [GitHub](https://github.com/rjopek/hb-raylib)
 
 ### Example code
 
-{% highlight ruby linenos %}
-
+```harbour
 
 #include "hbraylib.ch"
 
