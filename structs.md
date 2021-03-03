@@ -4,6 +4,8 @@ title: module structs
 permalink: structs
 ---
 
+# **structs**
+
 ```c
 
 struct Vector2;         // Vector2 type

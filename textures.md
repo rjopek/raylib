@@ -4,6 +4,8 @@ title: module textures
 permalink: textures
 ---
 
+# **Function reference module: textures**
+
 ## Image loading functions
 
 > NOTE: This functions do not require GPU access
