@@ -62,7 +62,7 @@ PROCEDURE Main()
 
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](LICENSE)
 
-This site is based on the original [RayLib v3.5](https://www.raylib.com/cheatsheet/cheatsheet.html) documentation.
+This site is based on the original [RayLib v3.5](https://www.raylib.com/cheatsheet/cheatsheet.html) documentation authorship Ramon Santamaria [(@raysan5)](https://github.com/raysan5)
 
 License MIT is obviously applied only for this repository, not what it builds.
 
